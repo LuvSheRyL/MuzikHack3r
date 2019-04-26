@@ -23,7 +23,7 @@
   
   +Models 结构、框架与模型
   
-  +Material 材料
+  +Material 材料(指制作软件、音色库、合成器等内容)
   
   +ProtocolsofMusic跨学科协作交互协议
   
