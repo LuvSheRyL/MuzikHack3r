@@ -9,3 +9,7 @@
 ## 关于黄雷基老师
 
 - [程乐华老师对黄雷基老师访谈问答录](http://www.360doc.com/content/17/1008/23/38160698_693341795.shtml)（注：此链接为盗版内容，对恶意复制的站点表示强烈谴责）
+
+## 三篇雄文的注释
+
+- [What-If Machine](https://futurama.fandom.com/wiki/What-If_Machine)
