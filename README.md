@@ -6,6 +6,11 @@
 
 您目前看到的版本是0.1版。
 
+## 大问题(Big Issues)
+
+音乐美感如何计算？
+音乐从业者如何养活自己？
+
 ## 文档树形结构(File Structures)
 
 -On_Cog_Muzik
