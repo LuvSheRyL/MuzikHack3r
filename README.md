@@ -16,7 +16,7 @@
   
   +Models 结构、框架与模型
   
-  +Matrial 材料
+  +Material 材料
   
   +ProtocolsofMusic跨学科协作交互协议
   
