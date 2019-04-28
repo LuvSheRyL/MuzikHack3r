@@ -13,3 +13,8 @@
 
 - [百老汇数据库](https://www.ibdb.com/)
 
+
+
+## 辅助工具
+
+- 利用语义启发探索“人类”对音乐习得[常识计划](https://www.commonsense.org/)
