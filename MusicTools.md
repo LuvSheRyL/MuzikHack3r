@@ -17,6 +17,18 @@
 
 ## 辅助工具
 
+### 计算创新软件
+
 - 利用语义启发探索“人类”对音乐习得[常识计划](https://www.commonsense.org/)
 
 - 创意生成工具[What-if Machine](http://whatifmachine.org/help/)
+
+- [The Painting Fool]()
+
+### 自动推理软件
+
+- [HR]()
+
+### 故事生成
+
+- [PropperWryter]()
