@@ -18,3 +18,5 @@
 ## 辅助工具
 
 - 利用语义启发探索“人类”对音乐习得[常识计划](https://www.commonsense.org/)
+
+- 创意生成工具[What-if Machine](http://whatifmachine.org/help/)
