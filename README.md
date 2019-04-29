@@ -17,7 +17,7 @@
 
   +ReadMe
 
-  +MusicTools [音乐工具箱]()
+  +MusicTools [音乐工具箱](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/MusicTools.md)
   
   +MasterStory 大牛故事(音乐工具箱中值得被单独列出的一部分)
   
