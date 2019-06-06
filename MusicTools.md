@@ -6,6 +6,8 @@
 
 ### Ontology for Music
 
+- [musicontology](https://github.com/motools/musicontology)
+
 - [audioset](https://github.com/audioset/ontology)
 
 ## Database for Songz
