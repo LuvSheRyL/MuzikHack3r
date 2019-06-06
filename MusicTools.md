@@ -2,13 +2,28 @@
 
 这部分我们提供了很多开源项目及资源。
 
-## 音乐实体识别
+## KG for Music
+
+## Database for Songz
+
+- [MSongsDB](https://github.com/LuvSheRyL/MSongsDB)
+
+## 音乐智能
+
+### 音乐实体识别
 
 - [CCKR2018]()
+
+### 音乐情感分析
+
+
 
 ## 音乐生成
 
 - [flowcomposer]()
+
+### 基于RNN序列
+
 
 ## 可视化交互开源库
 
