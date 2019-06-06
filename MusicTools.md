@@ -4,6 +4,10 @@
 
 ## KG for Music
 
+### Ontology for Music
+
+- [audioset](https://github.com/audioset/ontology)
+
 ## Database for Songz
 
 - [MSongsDB](https://github.com/LuvSheRyL/MSongsDB)
