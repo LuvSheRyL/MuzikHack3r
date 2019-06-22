@@ -33,7 +33,13 @@
 
 这是一份集合了行业现状、从业者生态、学习路线、开源项目、学习资源（如乐理）的资源合集。
 
+## 值得推荐的相似项目
+
+- [awesome-composer](https://github.com/jakoch/awesome-composer)
+
 ## ChangeLog
+
+没太监，还活着，还在更，内在动机还不够强。
 
 - 20190401 Inited by @LuvSheRyL.
 - 20190418 V.0.1
