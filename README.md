@@ -9,7 +9,7 @@
 ## 大问题(Big Issues)
 
 音乐美感如何计算？
-音乐从业者如何养活自己？
+音乐从业者如何养活自己？在此版本中去掉。
 
 ## 文档树形结构(File Structures)
 
@@ -21,7 +21,9 @@
   
   +MasterStory 大牛故事(音乐工具箱中值得被单独列出的一部分)
   
-  +Models 结构、框架与模型
+  +Ontology
+    - Semantic Network 
+    - An Engineering View
   
   +Material 材料(指制作软件、音色库、合成器等内容)
   
