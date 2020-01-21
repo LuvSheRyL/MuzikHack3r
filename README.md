@@ -37,11 +37,15 @@
   
   +ProtocolsofMusic 跨学科协作交互协议
   
-  +PullRequest 协作协议
+  + PullRequest 协作协议
+    - [音乐论文典型格式简介](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/%E9%9F%B3%E4%B9%90%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E5%8F%8A%E6%9C%9F%E5%88%8A%E7%AE%80%E4%BB%8B)
+  
   
 ### 音乐工具箱 MusicTools 
 
 这是一份集合了行业现状、从业者生态、学习路线、开源项目、学习资源（如乐理）的资源合集。
+
+在V0.2中顺手引用几个用到了的信源，不严谨。
 
 #### 人型资源
 
