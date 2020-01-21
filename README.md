@@ -32,6 +32,9 @@
     - On Interactive View
       
       - DaVid Bohm's 《On Dialogue》
+      
+  + Music Design
+    - Affective Computing 情感计算
   
   +Material 材料(指制作软件、音色库、合成器等内容)
   
