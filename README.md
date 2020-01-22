@@ -92,5 +92,5 @@
 - 20190401 Inited by @LuvSheRyL.
 - 20190418 V.0.1
 - 20190606 V.0.11
-- 20200117 V.0.2
+- 20200117 V.0.2 Got awareness of what i'm gonna do.
 
