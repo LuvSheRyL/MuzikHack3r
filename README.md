@@ -83,7 +83,7 @@
       
   + Music Writing Grammar
   
-    - [Backmask ]()
+    - [Backmask](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/B%26S.md)
   
   +Material 材料(指制作软件、音色库、合成器等内容)
   
