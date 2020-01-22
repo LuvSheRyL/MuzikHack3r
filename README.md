@@ -45,6 +45,16 @@
          - time
          
          - space
+         
+         - container （交互的容器 - 一个自创的说法 ，您可以任选复杂系统、层级结构的理论，我只知道这是个容器）
+         
+         - agent
+         
+         - rule
+         
+         - parameter
+         
+         - others
       
       - information interative theory
       
