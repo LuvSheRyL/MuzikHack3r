@@ -36,7 +36,14 @@
       
       - DaVid Bohm's 《On Dialogue》
       
+      - social interative theory
+      
+      - information interative theory
+      
+      - on computing view 
+      
     - On Body-Mind View
+      - Mind 
       - Emotions
       - Structural Hearings
       
@@ -45,6 +52,11 @@
   
   +Material 材料(指制作软件、音色库、合成器等内容)
   
+  +Examples 论述用例
+  
+    -Mix
+    -OwnWork
+    
   +ProtocolsofMusic 跨学科协作交互协议
   
   + PullRequest 协作协议
