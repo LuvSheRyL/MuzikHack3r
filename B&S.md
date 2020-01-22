@@ -4,13 +4,16 @@ BackMasking and Sampling
 
 为什么不用reverse这个词？先从宗教教义说起吧。
 
-## 信仰：子不语怪力乱神
+## 信仰
 
 在某些领域，倒放是一种寅猫论。
 
 
 
 ## 表意概括
+
+不和谐感。
+
 
 
 
@@ -20,4 +23,7 @@ BackMasking and Sampling
 
 源头：Jaden Smith 《Icon》
 采样：Joyner Lucas 
+
+
+### 参考文献
 
