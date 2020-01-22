@@ -1,4 +1,4 @@
-# MuzikHack3r
+# Project MuzikHack3r
 
 这是一份关于音乐的报告，涵盖音乐资源工具箱，开源项目，音乐史，学习路线等。
 
