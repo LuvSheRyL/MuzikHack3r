@@ -31,12 +31,16 @@
     - Semantic Network about “Music”
     
     - An Engineering View
-    
+      
     - On Interactive View
       
       - DaVid Bohm's 《On Dialogue》
       
       - social interative theory
+        
+         - time
+         
+         - space
       
       - information interative theory
       
@@ -44,8 +48,12 @@
       
     - On Body-Mind View
       - Mind 
+        - how to cope with time-space-signal problem
       - Emotions
+        - how to build emotions
       - Structural Hearings
+      
+      - body-moving intentional
       
   + Music Design
     - Affective Computing 情感计算
