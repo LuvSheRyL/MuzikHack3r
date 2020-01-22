@@ -8,6 +8,9 @@ BackMasking and Sampling
 
 在某些领域，倒放是一种寅猫论。
 
+举例1
+
+手段1
 
 
 ## 表意概括
