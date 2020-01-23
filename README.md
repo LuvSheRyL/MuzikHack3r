@@ -12,7 +12,7 @@
 
 - [音乐论文典型格式简介](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/%E9%9F%B3%E4%B9%90%E8%AE%BA%E6%96%87%E6%A0%BC%E5%BC%8F%E5%8F%8A%E6%9C%9F%E5%88%8A%E7%AE%80%E4%BB%8B)
 
-没办法补图。
+按重要程度肯定是这个优先更，但时期特殊，需要万众一心众志成城，没办法补图。
 
 ## 大问题(Big Issues)
 
