@@ -96,7 +96,7 @@
     - Music Pattern
       - Japanese Trap
       - Arabian TRap
-      - Chinese Trap
+      - [Chinese Trap](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/On_Chinese_Sampling)
       - Spanish Trap
       - Raggae 
       
