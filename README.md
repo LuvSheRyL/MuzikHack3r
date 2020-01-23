@@ -86,7 +86,7 @@
         - how to build emotions
       - Structural Hearings
       
-      - body-moving intentional
+      - body-moving intentional attitude
       
   + Music Design
     - Meta-Topic
