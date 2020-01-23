@@ -18,6 +18,16 @@
 
 音乐从业者如何养活自己？在此版本中去掉。
 
+
+对音乐的认知决定一个人会怎样去看待音乐。
+
+本项目就音乐这一部分采取逼近方法，先假设各个维度上的意义呈现多元线性排列：
+
+如：音乐 = 创作者美感 + 线性模型处理技法 + 听觉和谐（本版本的主要观点）。 
+
+此外，音乐的意义附着于其他形式的物质之上。这是本项目研究其余的主要内容。
+
+
 ## 文档树形结构(File Structures)
 
 -On_Cog_Muzik
@@ -92,10 +102,11 @@
     -Mix
     -OwnWork
     
-  +ProtocolsofMusic 跨学科协作交互协议
+  + ProtocolsofMusic 跨学科协作交互协议
+    - the meaning of protocol 
   
   + PullRequest 协作协议
-    
+    - on knowledge-stack
   
   
 ### 音乐工具箱 MusicTools 
