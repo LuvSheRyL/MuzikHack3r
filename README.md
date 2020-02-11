@@ -196,10 +196,12 @@ Zatorre 2010
 #### 专利及法律相关
 
 - [鼓专利](https://patents.google.com/patent/US1495672A/en)
+- Beat采购协议]()
 
 
 ## 值得推荐的相似项目
 
+- 风格识别]() 一个国内团队的音乐风格识别系统，挺好的尝试。
 - [awesome-composer](https://github.com/jakoch/awesome-composer)
 
 ## ChangeLog
