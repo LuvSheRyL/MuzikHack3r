@@ -14,6 +14,16 @@
 
 ### 其他关联学科期刊简介
 
+#### 社会、音乐
+
+Marx Weber 音乐社会学概论
+
+便于验证，这里是一些社会科学研究方法与定量、定性的介绍。
+
+- 实证的迷思 
+- 测度论与概率统计
+
+
 #### 群、音乐
 
 音乐及其变换（Lewin，1987）
@@ -123,11 +133,20 @@ Zatorre 2010
       - moral
     - Affective Computing 情感计算
     - Music Pattern
+    
+      - 关于Trap音乐的综述]()
+    
       - Japanese Trap
+      
       - Arabian TRap
+      
       - [Chinese Trap](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/On_Chinese_Sampling)
+      
       - Spanish Trap
+      
       - Raggae 
+      
+      - Dance Music
       
   + Music Writing Grammar
   
