@@ -38,5 +38,14 @@ BackMasking and Sampling
 采样：Kendrick Lamar Rihanna 《Loyalty》 
 
 
+### 结语
+
+正如网易云音乐 @ CBamou 评论Kanye West 的福音转向
+
+"整张专辑的声响频率会在 432hz，是宇宙自然的频率，是会使人精神力正向平和的频率，专辑把人声用作没有定调的乐器（听起来很 Brian Eno"
+
+藏剑于鞘，无损不朽。
+
+
 ### 参考文献
 
