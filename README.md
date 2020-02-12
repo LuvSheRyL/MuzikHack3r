@@ -207,6 +207,12 @@ Zatorre 2010
 - [鼓专利](https://patents.google.com/patent/US1495672A/en)
 - Beat采购协议]()
 
+#### Tutorial & Magazines
+
+- [CMuse]
+
+
+
 
 ## 值得推荐的相似项目
 
