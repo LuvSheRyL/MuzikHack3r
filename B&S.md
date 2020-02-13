@@ -49,3 +49,5 @@ BackMasking and Sampling
 
 ### 参考文献
 
+1. [Recursive MUSIC: a framework for EEG and MEG source localization](https://ieeexplore.ieee.org/abstract/document/725331/)
+
