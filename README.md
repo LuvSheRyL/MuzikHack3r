@@ -35,6 +35,8 @@ Weyl's Symmetry
 
 作为对照，附上普林斯顿数学读本第三卷的《数学大事年表》
 
+- [数学大事年表](https://github.com/LuvSheRyL/MuzikHack3r/blob/master/History_of_Math.md)
+
 #### 脑区、认知、音乐
 
 Zatorre 2010
